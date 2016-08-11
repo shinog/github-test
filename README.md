@@ -1,2 +1,2 @@
 For learning Github
-BUt I already loved Github 
+I already loved Github, but I must learn...
